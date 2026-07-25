@@ -1,0 +1,13 @@
+Column A,Code for the magazine each story was first published in. Mostly for organizational purposes.
+Date,"Year and month each story was first published. For stories originally published over multiple months, the month when it first began is listed."
+English title,"English title of story, following the Kindle translation. The English titles in the the bilingual English–Japanese print series are often different, being direct translations of the Japanese titles."
+Japanese title,Original Japanese title of story.
+English Kindle,"Volume number in the English Kindle series. Those in the Doraemon Long Stories series are prefaced by ""L""."
+Bilingual Print,"Volume number in the bilingual English–Japanese print series. Volumes in the 2002–2005 10-volume series are prefaced by ""1-"", those in the 2013–2014 6-volume series are prefaced by ""2-"", and those in the 2024 6-volume series are prefaced by ""3-""."
+Tankōbon,"Volume number in the original Japanese print compilations. Includes the 45-volume release, Doraemon Plus (prefaced by ""+""), Volume 0, and Doraemon Long Stories (prefaced by ""L"")."
+Complete Collection,"Volume number in the Doraemon compilations for The Complete Works of Fujiko F. Fujio. The Doraemon Long Stories compilations are prefaced by ""L""."
+1979 anime,"Episode numbers for anime adaptations in the 1979 TV series (not including movies). Some special episodes in this series lack official numbers; these are indicated as ""Special"" accompanied by an unofficial number (following the fansite chinesedora.com) in parentheses. ""Ep 159A"", for example, indicates the first unnumbered special episode that aired after Episode 159."
+2005 anime,"Episode numbers for anime adaptations in the 2005 TV series (not including movies). This series often bundles multiple separate segments into single episodes. Both the episode number and (in parentheses) the individual segment number are listed. ""Short"" indicates stories adapted as bonus shorts instead of full-length segments."
+Movie,Feature-length movie adaptations.
+Short film,Short movie adaptations from the 1979 series originally released in theaters accompanying feature-length films.
+Notes,Special notes about select chapters.
